@@ -3,17 +3,17 @@ Kind of like Emily Post, but for Slack.
 
 ## Overview
 
-* (Contributing)[#contributing]
-* (Etiqutte)[#etiqutte]
-    * (Be Nice)[#be-nice]
-    * (Be Respectful)[#be-respectful]
-    * (Take a look around)[#take-a-look-around]
-    * (Pay attention to time zones and be respectful of peoples' time)[#pay-attention-to-time-zones-and-be-respectful-of-peoples-time]
-    * (Use Public Channels not Private Groups)[#use-public-channels-not-private-groups]
-    * (Use Private Groups Not Group DMs)[#use-private-groups-not-group-dms]
-    * (Asking for Help)[#asking-for-help]
-    * (Don't flood a channel with GIFs)[#dont-flood-a-channel-with-gifs]
-* (Some Terms)[#some-terms]
+* [Contributing](#contributing)
+* [Etiqutte](#etiqutte)
+    * [Be Nice](#be-nice)
+    * [Be Respectful](#be-respectful)
+    * [Take a look around](#take-a-look-around)
+    * [Pay attention to time zones and be respectful of peoples' time](#pay-attention-to-time-zones-and-be-respectful-of-peoples-time)
+    * [Use Public Channels not Private Groups](#use-public-channels-not-private-groups)
+    * [Use Private Groups Not Group DMs](#use-private-groups-not-group-dms)
+    * [Asking for Help](#asking-for-help)
+    * [Don't flood a channel with GIFs](#dont-flood-a-channel-with-gifs)
+* [Some Terms](#some-terms)
 
 
 ## Contributing
@@ -93,5 +93,5 @@ and can obscure something important. So pay attention to when and where you post
  * Channel: A public place to chat.
  * Group: A private channel between 2 or more people. People can be invited and can leave groups.
  * DM: A private chat between two people, short for "direct message". You can start group DMs, but those are discouraged
- see (Use Private Groups Not Group DMs)[#use-private-groups-not-group-dms]
+ see [Use Private Groups Not Group DMs](#use-private-groups-not-group-dms)
 
