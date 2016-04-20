@@ -18,17 +18,23 @@ Kind of like Emily Post, but for Slack.
 
 ## Contributing
 
-This is a community resource, submit your PRs to add and edit it! Let's build this together to make Slack great again.
+This is a community resource, so feel free to submit your PRs to add and edit it! Let's build this together to make Slack great again.
 
 ## Etiqutte
 
 ### Be Nice
 
-This is a good rule wherever you are. It's easy to infer tone in Slack, but if something someone says
-sounds off, give people the benefit of the doubt and assume they meant well.
+This is a good rule wherever you are. It's easy to infer tone in Slack, but if a person says something that
+sounds off, give them the benefit of the doubt and assume they meant well.
 
 If there is someone who isn't behaving well or makes you uncomfortable, be honest with them if you can.
-If you are uncomfortable doing that or feel the person isn't being receptive, DM an admin and let them know.
+If you are uncomfortable doing that or feel the person isn't being receptive, DM an admin and let them know:
+Mary Thengvall: @mary_grace
+Aydrian Howard: @aydrian
+Rich Leland: @richleland
+
+For more information, please read our complete [Code of Conduct](https://github.com/SparkPost/sparkpost.github.io/blob/develop/CodeofConduct.md).
+
 
 ### Be Respectful
 
@@ -36,16 +42,16 @@ There are many people in your team and you may not know them all. Be respectful 
 all genders, sexes, races, sexual orientations, religions... You get the picture.
 
 Be mindful in what you post: what may seem innocuous to you could be offensive to someone else.
-If you ever have a question about whether you should post something, don't do it :)
+If you ever have a question about whether you should post something, don't do it!
 
 
 ### Take a look around
 
-Joining a Slack channel is a lot like walking into a room. Don't just walk in and start talk :)
+Joining a Slack channel is a lot like walking into a room. Don't just walk in and start talking.
 
-So before you start typing, take a look around. See if there is a conversation that is going on.
+Before you start typing, take a look around. See if there is a conversation that is going on.
 If there is something happening, wait a few minutes to see if the conversation dies down. If not,
-you can wait til later or post a short message to let people know why you joined and what you'd like
+you can wait until later or simply post a short message to let people know why you joined and what you'd like
 to discuss/get help with. A lot of times someone will help you out in a DM or another channel.
 
 
@@ -55,15 +61,15 @@ People on Slack are distributed and might be in a very different time zone from 
 `@here`. Before you @-mention someone, think about what timezone they are in and if you are likely to disturb them.
 You can check someone's timezone in their profile.
 
-If you post in off hours for a team, be patient, they will get back to you once the sun comes up :)
+If you post in off hours for a team, be patient, they will get back to you once the sun comes up.
 
-### Use Public Channels not Private Groups
+### Use Public Channels, Not Private Groups
 
 Slack is about communication, so use public channels whenever possible. This is good for transparency,
-but also keeps the community vital and alive. You also will help someone else who might find your conversation
+but also keeps the community vibrant and alive. You also have an opportunity to help someone else who might find your conversation
 helpful or encouraging.
 
-### Use Private Groups Not Group DMs
+### Use Private Groups, Not Group DMs
 
 If you need to have a private conversation between yourself and a few other people, start a private channel.
 Slack lets you set up group DMs but its not possible to invite more people to those, so the history will be
@@ -74,12 +80,11 @@ with others at a later time.
 
 If you join a channel or team looking for help, keep a few things in mind:
 
-* state your problem clearly and succinctly
-* what have you tried?
-* be patient and polite
-* don't expect someone to do you work for you. They may just point you in the right direction.
+* State your problem clearly and succinctly, including what you've already tried
+* Be patient and polite
+* Don't expect someone to do you work for you. They may just point you in the right direction.
 
-Most people are helping you because they want to, not because they have to, so being polite goes a long way :)
+Most people are helping you because they want to, not because they have to, so being polite goes a long way!
 
 ### Don't flood a channel with GIFs
 
@@ -94,4 +99,3 @@ and can obscure something important. So pay attention to when and where you post
  * Group: A private channel between 2 or more people. People can be invited and can leave groups.
  * DM: A private chat between two people, short for "direct message". You can start group DMs, but those are discouraged
  see [Use Private Groups Not Group DMs](#use-private-groups-not-group-dms)
-
