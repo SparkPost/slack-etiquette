@@ -18,7 +18,7 @@ Kind of like Emily Post, but for Slack.
 
 ## Contributing
 
-This is a community resource, so feel free to submit your PRs to add and edit it! Let's build this together to make Slack great again.
+This is a community resource, so feel free to submit your PRs to add and edit it!
 
 ## Etiqutte
 
